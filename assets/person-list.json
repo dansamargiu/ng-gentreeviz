@@ -1,0 +1,44 @@
+
+[{
+  "id": 1,
+  "names": [{
+    "id": 1,
+    "value": "Joe",
+    "type": "given_name"
+  }, {
+    "id": 2,
+    "value": "Schmoe",
+    "type": "surname"
+  }],
+  "name_representation": [1, 2]
+},
+{
+  "id": 2,
+  "names": [{
+    "id": 1,
+    "value": "Alice",
+    "type": "given_name"
+  }, {
+    "id": 2,
+    "value": "Mangled",
+    "type": "surname"
+  }],
+  "name_representation": [1, 2]
+},
+{
+  "id": 3,
+  "names": [{
+    "id": 1,
+    "value": "Bob",
+    "type": "given_name"
+  }, {
+    "id": 2,
+    "value": "Horatio",
+    "type": "surname"
+  }, {
+    "id": 3,
+    "value": "Plebian",
+    "type": "married_surname"
+  }],
+  "name_representation": [1, 3]
+}]
